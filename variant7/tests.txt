@@ -1,0 +1,5 @@
+# username,code,expected
+eve,eveAAA,OK
+klein,kleinAAA,Wrong
+sam,masAAA,OK
+user,qwe,Wrong

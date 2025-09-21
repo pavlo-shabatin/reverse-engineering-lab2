@@ -1,0 +1,5 @@
+# username,code,expected
+mark,kram007,OK
+sam,maS007,Wrong
+anna, anna007 ,Wrong
+user,qwe,Wrong

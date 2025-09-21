@@ -1,0 +1,5 @@
+# username,code,expected
+ana,anaL0L,OK
+mike,ekiml0l,OK
+may, yamL0L ,Wrong
+user,qwe,Wrong

@@ -1,0 +1,5 @@
+# username,code,expected
+alice,ecilaXYZ,OK
+Bob,boBxyz,OK
+tom, motxyz ,Wrong
+user,qwe,Wrong

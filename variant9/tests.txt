@@ -1,0 +1,5 @@
+# username,code,expected
+anna, annaX1X ,OK
+sam,mas X1X,Wrong
+mike,Ekimx1x,OK
+user,qwe,Wrong
